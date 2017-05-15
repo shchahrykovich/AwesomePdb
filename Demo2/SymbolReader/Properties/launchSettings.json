@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SymbolReader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Sergey\\YandexDisk\\Presentations\\DebuggingInfrastructure\\EmailBuilder\\portable\\EmailBuilder.dll C:\\Users\\Sergey\\YandexDisk\\Presentations\\DebuggingInfrastructure\\EmailBuilder\\portable\\EmailBuilder.pdb "
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.nupkg
+packages/
+LocalCache/
+Demo2/artifacts/
+Demo1/SymbolStore/
