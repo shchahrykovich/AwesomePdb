@@ -4,7 +4,7 @@
   <!-- https://github.com/stffabi/sourcelink-test/blob/master/src/ClassLibrary1/ClassLibrary1.csproj  -->
   
   <PropertyGroup>
-    <RepoUri>https://github.com/shchahrykovich/pdb-test</RepoUri>
+    <RepoUri>https://github.com/shchahrykovich/AwesomePdb</RepoUri>
     <SourceLink>$(BaseIntermediateOutputPath)\source_link.json</SourceLink>
   </PropertyGroup>
   

@@ -3,13 +3,13 @@ VERSION=2
 INDEXVERSION=2
 VERCTRL=http
 SRCSRV: variables ------------------------------------------
-GIT_COMMIT_HASH=916f6f5f2fbe7bb43a9caf84e595d6b6c58fa46a
-GIT_REPO_URI=https://raw.githubusercontent.com/shchahrykovich/pdb-test
+GIT_COMMIT_HASH=9ab0145fcca2ef07617f63cc52d3671c7fee59d1
+GIT_REPO_URI=https://raw.githubusercontent.com/shchahrykovich/AwesomePdb
 HTTP_ALIAS=%GIT_REPO_URI%/%GIT_COMMIT_HASH%
 SRCSRVTRG=%HTTP_ALIAS%/%var2%
 SRCSRVCMD=
 SRCSRVVERCTRL=http
 SRCSRV: source files ---------------------------------------
-C:\Projects\pdb-test\Net46\demo1\App\Program.cs*Demo1/App/Program.cs
+C:\Projects\pdb-test\demo1\App\Program.cs*Demo1/App/Program.cs
 SRCSRV: end ------------------------------------------------
 
