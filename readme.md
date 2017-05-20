@@ -12,6 +12,12 @@ Awesome PDB
 * Review GenerateSourceLink task [Demo2/SourceLink/Directory.Build.targets](Demo2/SourceLink/Directory.Build.targets#L11)
 * Run SymbolReader [Demo2/SymbolReader](Demo2/SymbolReader)
 
+[Symbol package for Nuget](Net46Nuget)
+
+* Compile [BubbleSortNuGet](Net46Nuget/BubbleSortNuGet)
+* Run [Net46Nuget/CreateNet4NugetPackages.ps1](Net46Nuget/CreateNet4NugetPackages.ps1)
+* Attach debugger to [BubbleSortDemo](Net46Nuget/BubbleSortDemo)
+
 Portable PDB
 ===
 Portable PDB is a new cross-platform format for storing debug symbols. Source link is a feature that allows downloading source code at debug-time.
