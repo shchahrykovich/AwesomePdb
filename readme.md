@@ -41,3 +41,5 @@ PDB tools
 [**SrcTool**](https://msdn.microsoft.com/en-us/library/windows/hardware/ff558877(v=vs.85).aspx) - The SrcTool (Srctool.exe) utility lists all files indexed within the .pdb file. For each file, it lists the full path, source control server, and version number of the file. You can use this information for reference.
 
 [**PDBCopy**](https://msdn.microsoft.com/en-us/library/windows/hardware/ff553365(v=vs.85).aspx) - The PDBCopy tool (pdbcopy.exe) is a command-line tool that removes private symbol information from a symbol file. It can also remove selected information from the public symbol table.
+
+[**SymProxy**](SymProxy) - docker container for Windows
