@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appcmd>
+    <CONFIG CONFIG.SECTION="system.webServer/staticContent" path="MACHINE/WEBROOT/APPHOST">
+        <system.webServer-staticContent>
+            <clear />
+        </system.webServer-staticContent>
+    </CONFIG>
+</appcmd>
