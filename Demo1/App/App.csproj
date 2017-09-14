@@ -33,8 +33,8 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DotNextPdbDemo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\DotNextPdbDemo-symbols.0.9.16\lib\net45\DotNextPdbDemo.dll</HintPath>
+    <Reference Include="PdbDemo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\PdbDemo-symbols.0.9.16\lib\net45\PdbDemo.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

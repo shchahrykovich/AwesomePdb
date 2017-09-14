@@ -1,4 +1,4 @@
-﻿namespace DotNextPdbDemo
+﻿namespace PdbDemo
 {
     //https://en.wikipedia.org/wiki/Bubble_sort
     public static class BubbleSort

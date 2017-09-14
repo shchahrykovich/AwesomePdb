@@ -1,4 +1,4 @@
-﻿using DotNextPdbDemo;
+﻿using PdbDemo;
 using System;
 
 namespace App

@@ -7,8 +7,8 @@
     <ProjectGuid>{E145FF1F-55CC-4523-AC3F-5437E4482BF5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DotNextPdbDemo</RootNamespace>
-    <AssemblyName>DotNextPdbDemo</AssemblyName>
+    <RootNamespace>PdbDemo</RootNamespace>
+    <AssemblyName>PdbDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -45,7 +45,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="DotNextPdbDemo.nuspec" />
+    <None Include="PdbDemo.nuspec">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
