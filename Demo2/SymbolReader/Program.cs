@@ -45,7 +45,7 @@ namespace App
                 }
             }
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
 
         private static IEnumerable<LocalVariableHandleCollection> GetLocalVariableHandles(MetadataReader metadataReader, MethodDebugInformationHandle methodDebugHandle)
