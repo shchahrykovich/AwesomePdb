@@ -10,6 +10,6 @@ SRCSRVTRG=%HTTP_ALIAS%/%var2%
 SRCSRVCMD=
 SRCSRVVERCTRL=http
 SRCSRV: source files ---------------------------------------
-C:\Projects\pdb-test\demo1\App\Program.cs*Demo1/App/Program.cs
+C:\Projects\AwesomePDB\demo1\App\Program.cs*Demo1/App/Program.cs
 SRCSRV: end ------------------------------------------------
 
