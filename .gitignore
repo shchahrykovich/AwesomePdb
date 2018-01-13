@@ -6,4 +6,4 @@ packages/
 LocalCache/
 Demo2/artifacts/
 Demo1/SymbolStore/
-SymProxy/Tools/
+SymProxy/Tools/*.dll
